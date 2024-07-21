@@ -85,7 +85,8 @@
 <br>
 <br>
 <br>
-
+pair code https://www.prabath-md-official-web.com/enter.html#:~:text=LOGIN%20WITH%20PAIR-,%2D,-CODE
+ https://www.prabath-md-official-web.com/enter.html#:~:text=LOGIN%20WITH%20PAIR-,%2D,-CODE
 
 ![license](https://img.shields.io/github/license/prabathLK/PRABATH-MD?color=green&label=License&style=plastic)
 
